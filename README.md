@@ -1,4 +1,4 @@
-# listaUm-java-una-Kaique Prado
+# lista-exercicio-1-java
 Lista de treinamento de algoritmos em java
 
 Técnologia utilizada: 
